@@ -7,6 +7,9 @@ This was made for the purpose of checking the running status of exclusive contro
 Start this and type these key.
 
 S: Start long code module.
+
 L: List running status.
+
 C: Try to cancel this long code.
+
 Q: Quit the execution.
